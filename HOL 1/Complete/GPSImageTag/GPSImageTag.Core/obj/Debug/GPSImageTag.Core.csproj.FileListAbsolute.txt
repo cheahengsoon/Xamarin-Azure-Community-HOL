@@ -1,0 +1,2 @@
+C:\Users\es.cheah\Desktop\Private\Xamarin\Session 3 - Practical Mobile Development\HOL 1\Complete\GPSImageTag\GPSImageTag.Core\obj\Debug\GPSImageTag.Core.csproj.App.config
+C:\Users\es.cheah\Desktop\Private\Xamarin\Session 3 - Practical Mobile Development\HOL 1\Complete\GPSImageTag\GPSImageTag.Core\obj\Debug\GPSImageTag.Core.csprojResolveAssemblyReference.cache

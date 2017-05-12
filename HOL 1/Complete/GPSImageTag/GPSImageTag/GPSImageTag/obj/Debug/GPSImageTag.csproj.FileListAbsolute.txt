@@ -1,0 +1,5 @@
+C:\Users\es.cheah\Desktop\Private\Xamarin\Session 3 - Practical Mobile Development\HOL 1\Complete\GPSImageTag\GPSImageTag\GPSImageTag\obj\Debug\GPSImageTag.csprojResolveAssemblyReference.cache
+C:\Users\es.cheah\Desktop\Private\Xamarin\Session 3 - Practical Mobile Development\HOL 1\Complete\GPSImageTag\GPSImageTag\GPSImageTag\obj\Debug\GPSImageTag.App.xaml.g.cs
+C:\Users\es.cheah\Desktop\Private\Xamarin\Session 3 - Practical Mobile Development\HOL 1\Complete\GPSImageTag\GPSImageTag\GPSImageTag\obj\Debug\GPSImageTag.Pages.CameraPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\Private\Xamarin\Session 3 - Practical Mobile Development\HOL 1\Complete\GPSImageTag\GPSImageTag\GPSImageTag\obj\Debug\GPSImageTag.Pages.PhotosPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\Private\Xamarin\Session 3 - Practical Mobile Development\HOL 1\Complete\GPSImageTag\GPSImageTag\GPSImageTag\obj\Debug\GPSImageTag.Pages.StartPage.xaml.g.cs
